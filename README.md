@@ -3,7 +3,7 @@ building_ai_final_project
 
 # AI-Powered Virtual Health Assistant
 
-# Summary
+## Summary
 The project aims to develop an AI-powered virtual health assistant that provides personalized guidance, education, and support for individuals in managing their health. It leverages AI techniques such as natural language processing and machine learning to offer accurate information, recommendations, and reminders.
 
 # Background
